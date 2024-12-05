@@ -5,7 +5,7 @@ My attempts for Advent of Code :3!
 Filter by year
 ![img.png](img.png)
   
-## 2015: Golang 
+## 2015: Go
 
 | Day | Part 1 | Part 2 |
 |:----|:-------|:-------|

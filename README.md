@@ -1,6 +1,8 @@
 # AoC
 
-My attempts for Advent of Code :3!  
+My attempts for Advent of Code :3!
+
+Most of the code actually sucks balls, just learning languages here. Most was my first of the language used.
 
 Filter by year
 ![img.png](img.png)
